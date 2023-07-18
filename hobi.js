@@ -1,0 +1,1 @@
+console.log("hobi : mendengarkan musiks");
